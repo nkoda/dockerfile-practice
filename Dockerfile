@@ -1,3 +1,4 @@
+#author Nikko
 FROM continuumio/miniconda3
 
 # Install Jupyter, JupterLab, R & the IRkernel
